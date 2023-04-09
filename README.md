@@ -40,37 +40,56 @@
 ## Let's Dive into What we have made
 
 ## Home Page :
-![Home_Page](https://user-images.githubusercontent.com/104616395/221781119-a383b708-9ac3-4846-af58-605b9d0d29a4.png)
+![Home page](https://user-images.githubusercontent.com/104616395/230768174-6e109c68-2720-4539-b571-eb2cf28b2205.png)
+
 
 <br/>
 
 
 ## Product Page :
-![Prodcut Page](https://user-images.githubusercontent.com/104616395/221781199-2c74c076-62eb-48f2-b484-d023819c81f7.png)
+![Product Page](https://user-images.githubusercontent.com/104616395/230768182-5c0e66a0-483a-41fa-bf74-664de23b5b9b.png)
+
 
 
 <br/>
 
 ## Single Product Page :
-![Single Product Page](https://user-images.githubusercontent.com/104616395/221781272-6f275d56-b837-464c-af25-1ee7a17756e3.png)
+![Single Product Page](https://user-images.githubusercontent.com/104616395/230768188-957d3491-d7af-471c-9d35-474003324488.png)
 
 <br/>
 
 ## Cart Page :
-![cart](https://user-images.githubusercontent.com/104616395/221781332-e53b2409-f9f4-4fc7-9a29-f247401d7b73.png)
+![Cart Page](https://user-images.githubusercontent.com/104616395/230768194-5580235a-e72a-466e-b41a-d951363d43eb.png)
 
 <br/>
+
+
+## Checkout Page :
+![Checkout Page](https://user-images.githubusercontent.com/104616395/230768264-cafb9707-23de-4593-9211-e0f49b307c1e.png)
+
+
+<br/>
+
 
 
 
 ## Contact Details Page :
-![contact-details](https://user-images.githubusercontent.com/104616395/221781448-fc780a1d-8e5e-4e0d-be03-89356434cb7e.png)
+![Contact Details Page](https://user-images.githubusercontent.com/104616395/230768199-2d6adf13-0003-497c-a85a-f34697030647.png)
+
+<br/>
+
+## Payment Page :
+![Payment Page](https://user-images.githubusercontent.com/104616395/230768270-3b72b9da-c2c1-4f1f-b75f-57f2090828dd.png)
+
+
 <br/>
 
 
 
+
 ## Login Page :
-![login](https://user-images.githubusercontent.com/104616395/221781603-6c881863-13cf-4404-b40d-b74f187672bf.png)
+![Login Page](https://user-images.githubusercontent.com/104616395/230768203-1ee826d0-6695-4455-89e2-7beade5eb914.png)
+
 
 <br/>
 
